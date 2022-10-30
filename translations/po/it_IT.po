@@ -198,7 +198,7 @@ msgstr ""
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Do you want to select this place?"
-msgstr ""
+msgstr "Vuoi scegliere questo luogo?"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Add Met.no Map Place"
@@ -206,37 +206,37 @@ msgstr "Aggiungi Met.no Map Place"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Latitude is not valid."
-msgstr ""
+msgstr "La Latitudine non è corretta."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Latitude is not between -90 and 90."
-msgstr ""
+msgstr "La Latitudine non è compresa tra -90 e 90."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Longitude is not valid."
-msgstr ""
+msgstr "La Longitudine non è corretta."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Longitude is not between -180 and 180."
-msgstr ""
+msgstr "La Longitudine non è compresa tra -180 e 180."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Altitude is not valid."
-msgstr ""
+msgstr "L'Altitudine non è corretta."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Altitude is not between -999 and 5000."
-msgstr ""
+msgstr "L'Altitudine non è compresa tra -999 e 5000."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "The Place Name is empty."
-msgstr ""
+msgstr "Il nome del luogo è vuoto."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "There is an error!"
 msgid_plural "There are %1 errors!"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "C'è un errore!"
+msgstr[1] "Ci sono %1 errori!"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Latitude"
@@ -248,7 +248,7 @@ msgstr "Longitudine"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Altitude"
-msgstr ""
+msgstr "Altitudine"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "URL"
@@ -256,11 +256,11 @@ msgstr ""
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Place Identifier"
-msgstr "Identificatore posto"
+msgstr "Identificatore di luogo"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Change Displayed As"
@@ -272,7 +272,7 @@ msgstr "Inserisci il nome del luogo"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Location Search"
-msgstr ""
+msgstr "Ricerca del Luogo"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Location"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Timezone"
-msgstr ""
+msgstr "Fuso orario"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Search data extracted from data provided by Geonames.org."
@@ -292,11 +292,11 @@ msgstr ""
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Country:"
-msgstr ""
+msgstr "Regione:"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Filter:"
-msgstr ""
+msgstr "Filtro:"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Plasmoid version:"
@@ -335,15 +335,15 @@ msgstr ""
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Sunrise/sunset data provided by Sunrise - Sunset."
-msgstr ""
+msgstr "Orari di alba/tramonto forniti da Sunrise - Sunset."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "OWM weather forecast data provided by OpenWeather."
-msgstr ""
+msgstr "Previsioni meteo OWM weather forniti da OpenWeather."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Weather icons created by Erik Flowers."
-msgstr ""
+msgstr "Icone Meteo create da Erik Flowers."
 
 #: ../../package/contents/ui/config/ConfigUnits.qml
 msgid "Temperature:"
@@ -372,7 +372,7 @@ msgstr "UTC"
 
 #: ../../package/contents/ui/config/ConfigUnits.qml
 msgid "Location Timezone"
-msgstr ""
+msgstr "Fuso orario del luogo"
 
 #: ../../package/contents/ui/FullRepresentationInTray.qml
 #: ../../package/contents/ui/FullRepresentation.qml
@@ -382,11 +382,11 @@ msgstr "Prossimo luogo"
 #: ../../package/contents/ui/FullRepresentationInTray.qml
 #: ../../package/contents/ui/FullRepresentation.qml
 msgid "Reload"
-msgstr ""
+msgstr "Ricarica"
 
 #: ../../package/contents/ui/FullRepresentation.qml
 msgid "Previous Location"
-msgstr ""
+msgstr "Luogo precedente"
 
 #: ../../package/contents/ui/main.qml
 msgid "Resume Updating"
